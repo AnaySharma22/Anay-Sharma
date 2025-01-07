@@ -1,0 +1,11 @@
+1) The source bodies I chose were J.K Rowling and Shakespeare, for J.K Rowling I chose "Harry Potter and the Sorcerer's stone" and for Shakespeare I chose 'Romeo and Juliet', 'Hamlet' and 
+   
+   'Julius Caesar'. I chose an excerpt from "Harry Potter and the Deathly Hallows", and excerpt from "Merchant of Venice", one of my WR112 Papers and an excerpt from "The Lord of the Rings
+    
+   -The Fellowship of the Rings" by J.R.R Tolkien
+     
+2) The excerpt from Shakespeare was more likely to be from Shakespeare while the excerpt from Rowling, the excerpt from Tolkien and my WR112 paper were more likely to be from Rowling
+
+3) I think my program works well as the tests came out almost exactly as I expected, few things that could be improved would probably be adding more conditions in the stem function. Also I 
+
+   think, just like in any program, the project could benefit with having extra functions that help during classification.
